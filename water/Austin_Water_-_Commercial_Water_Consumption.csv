@@ -1,4 +1,4 @@
-Year Month,Postal Code,Customer Class,Total Gallons
+YearMonth,PostalCode,CustomerClass,TotalGallons
 201201,78613,Irrigation - Commercial,855400
 201201,78613,Commercial,2880800
 201201,78617,Austin Water Utility,438700

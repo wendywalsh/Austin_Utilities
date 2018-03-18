@@ -1,4 +1,4 @@
-Year Month,Postal Code,Customer Class,Total Gallons
+YearMonth,PostalCode,CustomerClass,TotalGallons
 201201,78613,Multi-Family,23000
 201201,78613,Irrigation - Multi-Family,11000
 201201,78617,Multi-Family,2477000
